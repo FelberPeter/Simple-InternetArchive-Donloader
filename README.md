@@ -1,7 +1,7 @@
 # Simple-InternetArchive-Downloader
 
 **WICHTIG:**  
-Es müssen mindestens "WÄHLE LINKS DATEI", "WÄHLE ZIELORDNER" und "WÄHLE LOGIN DATEI" ausgewählt sein, damit der Download gestartet werden kann!
+Es müssen mindestens "LINKS DATEI", "ZIELORDNER" und "LOGIN DATEI" ausgewählt sein, damit der Download gestartet werden kann!
 
 ---
 
