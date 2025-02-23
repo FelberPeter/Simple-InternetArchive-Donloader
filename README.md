@@ -7,7 +7,7 @@ Es müssen mindestens "WÄHLE LINKS DATEI", "WÄHLE ZIELORDNER" und "WÄHLE LOGI
 
 ## PROGRAMMVERWENDUNG:
 
-1. Speichern der Seite als Downloadlink im HTML-Format.
+1. Speichern der Seite mit den Downloadlinks im HTML-Format. (Strg+S)
 2. Starten des Programmes.
 3. Den ersten Button anklicken, um das Ziel-HTML auszuwählen.
 4. "Erstelle Downloadlinks" -> nimmt die HTML-Datei und extrahiert alle Z7-Downloadlinks und speichert sie in einer TXT-Datei.  
