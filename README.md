@@ -34,3 +34,5 @@ Beim erneuten Öffnen werden die vorhin ausgewählten Dateien gespeichert!
 - Das Programm überprüft auch, ob die Dateien vollständig heruntergeladen worden sind, falls nicht, startet der Download erneut.
 
 ---
+## EXE
+https://github.com/FelberPeter/Simple-InternetArchive-Donloader/blob/9b50848a6df04e5f53c34e138ec4612c5d0b5def/dist/InternetArchiveDonwloader.exe
